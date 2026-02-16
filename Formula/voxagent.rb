@@ -1,8 +1,8 @@
 class Voxagent < Formula
   desc "Hey Vox — local-first voice agent daemon for macOS"
   homepage "https://github.com/TiagoGranelli/voxagent"
-  url "https://github.com/TiagoGranelli/voxagent/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "4a0403a229eab3a14515370802ace7ff55b70952f247e9b4d2491e6d0a8cd02e"
+  url "https://github.com/TiagoGranelli/voxagent/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "96b1ccc1a435ea2230988047869ca2ccad1d0f1cae595d9e1bc5017891a2f3b8"
   license "MIT"
 
   depends_on :macos
